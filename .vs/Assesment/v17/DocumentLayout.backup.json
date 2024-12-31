@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|c:\\users\\arwa.mohamed\\desktop\\assesment\\assesment\\controllers\\teammembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\controllers\\teammembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|c:\\users\\arwa.mohamed\\desktop\\assesment\\assesment\\views\\task\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\views\\task\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|c:\\users\\arwa.mohamed\\desktop\\assesment\\assesment\\views\\project\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\views\\project\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|c:\\users\\arwa.mohamed\\desktop\\assesment\\assesment\\views\\project\\getallprojects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\views\\project\\getallprojects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|c:\\users\\arwa.mohamed\\desktop\\assesment\\assesment\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|c:\\users\\arwa.mohamed\\desktop\\assesment\\assesment\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|c:\\users\\arwa.mohamed\\desktop\\assesment\\assesment\\models\\entities\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\models\\entities\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|c:\\users\\arwa.mohamed\\desktop\\assesment\\assesment\\models\\viewmodel\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\models\\viewmodel\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|c:\\users\\arwa.mohamed\\desktop\\assesment\\assesment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|c:\\users\\arwa.mohamed\\desktop\\assesment\\assesment\\views\\project\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\views\\project\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Migrations\\20241230082903_firstt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assesment\\Migrations\\20241230082903_firstt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Taskmanager/True/SqlTable/dbo.Tasks.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Taskmanager/True/SqlTable/dbo.TeamMembers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|c:\\users\\arwa.mohamed\\desktop\\assesment\\assesment\\models\\entities\\taskk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\models\\entities\\taskk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|c:\\users\\arwa.mohamed\\desktop\\assesment\\assesment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|c:\\users\\arwa.mohamed\\desktop\\assesment\\assesment\\views\\project\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\views\\project\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|c:\\users\\arwa.mohamed\\desktop\\assesment\\assesment\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Migrations\\20241230073437_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assesment\\Migrations\\20241230073437_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|c:\\users\\arwa.mohamed\\desktop\\assesment\\assesment\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|c:\\users\\arwa.mohamed\\desktop\\assesment\\assesment\\models\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\models\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|c:\\users\\arwa.mohamed\\desktop\\assesment\\assesment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B9D140-E707-445D-84C1-D5434DDB2A9A}|Assesment\\Assesment.csproj|solutionrelative:assesment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Assesment\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Assesment\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwEsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:35:28.459Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Assesment\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Assesment\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvy8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:16:22.061Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeamMemberController.cs",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Controllers\\TeamMemberController.cs",
+              "RelativeDocumentMoniker": "Assesment\\Controllers\\TeamMemberController.cs",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Controllers\\TeamMemberController.cs",
+              "RelativeToolTip": "Assesment\\Controllers\\TeamMemberController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:33:08.754Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAllProjects.cshtml",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Views\\Project\\GetAllProjects.cshtml",
+              "RelativeDocumentMoniker": "Assesment\\Views\\Project\\GetAllProjects.cshtml",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Views\\Project\\GetAllProjects.cshtml",
+              "RelativeToolTip": "Assesment\\Views\\Project\\GetAllProjects.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T07:55:01.455Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Views\\Task\\Update.cshtml",
+              "RelativeDocumentMoniker": "Assesment\\Views\\Task\\Update.cshtml",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Views\\Task\\Update.cshtml",
+              "RelativeToolTip": "Assesment\\Views\\Task\\Update.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T08:47:58.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Views\\Project\\Details.cshtml",
+              "RelativeDocumentMoniker": "Assesment\\Views\\Project\\Details.cshtml",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Views\\Project\\Details.cshtml",
+              "RelativeToolTip": "Assesment\\Views\\Project\\Details.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T08:02:34.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeamMember.cs",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Models\\Entities\\TeamMember.cs",
+              "RelativeDocumentMoniker": "Assesment\\Models\\Entities\\TeamMember.cs",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Models\\Entities\\TeamMember.cs",
+              "RelativeToolTip": "Assesment\\Models\\Entities\\TeamMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:53:52.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Models\\ViewModel\\TaskViewModel.cs",
+              "RelativeDocumentMoniker": "Assesment\\Models\\ViewModel\\TaskViewModel.cs",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Models\\ViewModel\\TaskViewModel.cs",
+              "RelativeToolTip": "Assesment\\Models\\ViewModel\\TaskViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:00:36.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Assesment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Assesment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T07:55:38.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Views\\Project\\Update.cshtml",
+              "RelativeDocumentMoniker": "Assesment\\Views\\Project\\Update.cshtml",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Views\\Project\\Update.cshtml",
+              "RelativeToolTip": "Assesment\\Views\\Project\\Update.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T07:58:59.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241230082903_firstt.cs",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Migrations\\20241230082903_firstt.cs",
+              "RelativeDocumentMoniker": "Assesment\\Migrations\\20241230082903_firstt.cs",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Migrations\\20241230082903_firstt.cs",
+              "RelativeToolTip": "Assesment\\Migrations\\20241230082903_firstt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:29:03.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbo.Tasks [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Taskmanager/True/SqlTable/dbo.Tasks.sql",
+              "ToolTip": "dbo.Tasks [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-30T08:37:48.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.TeamMembers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Taskmanager/True/SqlTable/dbo.TeamMembers.sql",
+              "ToolTip": "dbo.TeamMembers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-30T08:39:01.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Taskk.cs",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Models\\Entities\\Taskk.cs",
+              "RelativeDocumentMoniker": "Assesment\\Models\\Entities\\Taskk.cs",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Models\\Entities\\Taskk.cs",
+              "RelativeToolTip": "Assesment\\Models\\Entities\\Taskk.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:50:40.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Views\\Project\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Assesment\\Views\\Project\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Views\\Project\\Delete.cshtml",
+              "RelativeToolTip": "Assesment\\Views\\Project\\Delete.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T08:00:01.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\appsettings.json",
+              "RelativeDocumentMoniker": "Assesment\\appsettings.json",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\appsettings.json",
+              "RelativeToolTip": "Assesment\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T06:23:37.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Views\\Project\\Create.cshtml",
+              "RelativeDocumentMoniker": "Assesment\\Views\\Project\\Create.cshtml",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Views\\Project\\Create.cshtml",
+              "RelativeToolTip": "Assesment\\Views\\Project\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T07:56:55.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241230073437_first.cs",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Migrations\\20241230073437_first.cs",
+              "RelativeDocumentMoniker": "Assesment\\Migrations\\20241230073437_first.cs",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Migrations\\20241230073437_first.cs",
+              "RelativeToolTip": "Assesment\\Migrations\\20241230073437_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:34:37.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Models\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "Assesment\\Models\\Entities\\Project.cs",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Models\\Entities\\Project.cs",
+              "RelativeToolTip": "Assesment\\Models\\Entities\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:52:57.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Models\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Assesment\\Models\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Models\\AppDBContext.cs",
+              "RelativeToolTip": "Assesment\\Models\\AppDBContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA5wBcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:28:40.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Program.cs",
+              "RelativeDocumentMoniker": "Assesment\\Program.cs",
+              "ToolTip": "C:\\Users\\arwa.mohamed\\Desktop\\Assesment\\Assesment\\Program.cs",
+              "RelativeToolTip": "Assesment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:27:27.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

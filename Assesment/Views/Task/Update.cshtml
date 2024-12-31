@@ -1,0 +1,79 @@
+﻿@model Assesment.Models.ViewModel.TaskViewModel
+
+@{
+    ViewData["Title"] = "Update";
+}
+
+<h1>Update</h1>
+
+<h4>Taskk</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Update">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="tvmId" />
+            <div class="form-group">
+                <label asp-for="projectidd" class="control-label"></label>
+                <select asp-for="projectidd" class="form-control" >
+                    @foreach(var item in Model.projects){
+                        <option value="@item.Id">@item.Name</option>
+                    }
+                   
+                </select>
+                <span asp-validation-for="projectidd" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="teammembIDD" class="control-label"></label>
+                <select asp-for="teammembIDD" class="form-control" >
+                     @foreach(var item in Model.teammembers){
+                        <option value="@item.Id">@item.Name</option>
+                    }
+                   
+                </select>
+                <span asp-validation-for="teammembIDD" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="title" class="control-label"></label>
+                    <input asp-for="title" class="form-control">
+            </div>
+                    <span asp-validation-for="description" class="text-danger"></span>
+                    <div class="form-group">
+                        <label asp-for="description" class="control-label"></label>
+                        <input asp-for="description" class="form-control">
+
+                        <span asp-validation-for="description" class="text-danger"></span>
+            </div>
+                        <span asp-validation-for="status" class="text-danger"></span>
+            <div    class="form-group">
+                            <label asp-for="status" class="control-label"></label>
+                            <input asp-for="status" class="form-control">
+
+                            <span asp-validation-for="status" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="priority" class="control-label"></label>
+                <input asp-for="priority" class="form-control">
+
+                <span asp-validation-for="priority" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+
+                <a asp-controller="Task" asp-action="Update" asp-route-id="tvmId">Update</a> |
+                
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+   
+    
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
